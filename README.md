@@ -2,11 +2,11 @@
 
 # UTS PEMROGRAMAN MOBILE 1
 
-Nama : Syifa Aurellia Rahma
+Nama : Idris Syahrudin
 
-NIM : 312210009
+NIM : 312210467
 
-Kelas : TI.22.A1
+Kelas : TI.22.A5
 
 Mata Kuliah : Pemrograman Mobile 1
 
